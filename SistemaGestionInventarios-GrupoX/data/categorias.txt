@@ -1,0 +1,4 @@
+1,Computadoras,Equipos de computacion y laptops
+2,Perifericos,Mouse, teclados, audifonos
+3,Accesorios,Cables, adaptadores, soportes
+4,Impresoras,Equipos de impresion y scanners

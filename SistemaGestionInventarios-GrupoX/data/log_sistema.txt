@@ -1,0 +1,4 @@
+[15/11/2024 10:30:45] Sistema de inventario iniciado
+[15/11/2024 10:35:22] Categoria agregada: Computadoras
+[15/11/2024 10:40:15] Producto agregado: Laptop Dell Inspiron
+[15/11/2024 11:20:30] Stock actualizado - Producto: Mouse Inalambrico Logitech (30->25)
